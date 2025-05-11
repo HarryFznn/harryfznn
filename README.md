@@ -4,7 +4,7 @@ This my personal Portopolio
 Feel Free to use and contact me in u interested
 - email : harryakbarfz@gmail.com
 
-- 👋 Hi, I’m @HarrxYz
+- 👋 Hi, I’m @Harryfznn
 
 - I'm a fresh graduate of **Informatics Engineering Student** at [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).
 - I am also a **Student** at [Dicoding](https://www.dicoding.com/) and Machine Learning **Graduate** at [Bangkit Academy](https://bangkit.academy) 2022
